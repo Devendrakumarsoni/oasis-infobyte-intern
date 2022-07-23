@@ -1,5 +1,4 @@
-# oasis-infobyte-intern
-Graphic design internship tasks -1
+#    OIBSIP internship tasks -1
 
 # output 
 
